@@ -12,3 +12,5 @@ Risk Analytics in Banking and Financial Services | Loan Default
         3.Conducted in-depth data analysis to uncover patterns and insights into default tendencies.
   
 **Outcome**: Delivered insights aimed at improving risk assessment strategies for lending institutions, contributing to informed decision-making and proactive default prevention measures.
+
+![image](https://github.com/user-attachments/assets/54062b47-9fdc-4948-8542-d4a2e6365544)
